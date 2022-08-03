@@ -1,4 +1,4 @@
-## Olá sou Inácio Mecena, Sou estudante de tecnologia, sou dev Back-End, trilho o caminho da Cultura DevOps!
+## Olá sou Inácio Mecena, Sou estudante de tecnologia, sou dev Back-End, dedico boa parte dos meus estudos a Java e a Cultura DevOps!
 <div align="center">
   <a href="https://github.com/inaciomecena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inaciomecena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
